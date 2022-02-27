@@ -1,0 +1,64 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.section-title {
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.contact-container {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 0px;
+}
+
+.contact-left {
+    max-width: 60%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.download {
+    background: rgb(237,241,247);
+    background: radial-gradient(circle, rgba(237,241,247,0.8883928571428571) 0%, rgba(151,154,158,1) 42%, rgba(85,87,89,1) 64%, rgba(0,0,0,0.6250875350140056) 77%, rgba(125,128,131,1) 80%);
+    padding: 8px 16px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    margin: 8px;
+}
+
+.download a{
+    text-decoration: none;
+    color: black;
+}
+
+.download-icon {
+    margin: 8px;
+    max-width: max-content;
+    padding: 8px;
+}
+
+@media only screen and (max-width: 720px) {
+    .contact-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .contact-left{
+        max-width: 100%;
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .download{
+        font-size: 16px;
+    }
+} 
