@@ -11,7 +11,7 @@ function Contact() {
             <label className="section-title">Contact</label>
             <div className="contact-container">
                 <div className="contact-left">
-                    <p>Let's Talk</p>
+                    <p>Work Together?</p>
                     <SocialContact />
                 </div>
                 <div className="download">
