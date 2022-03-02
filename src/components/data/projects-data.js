@@ -10,9 +10,10 @@ export const ProjectData = [
     },
     {
         id:"2",
-        title:"NFT website",
+        title:"OG Dodeboy NFT",
         demo:'https://chillsburydogeboy.herokuapp.com/',
-        about:"Information website regarding nfts that are being minted on the SOL blockcahin",
+        about:"NFT Collection and and information regarding minting date",
+        Discord:"chillsburydodgeboy.com"
         tags:["React","Node",],
         github:'https://github.com/PeterdQuinn/ChillsburryMainSite-main.git',
         image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9w6rYjeT8FJFtQSXPWY8cYqYc6vG0zNP5w&usqp=CAU'
