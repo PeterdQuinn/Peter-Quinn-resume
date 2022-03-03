@@ -11,7 +11,7 @@ export const ProjectData = [
     {
         id:"2",
         title:"OG Dodeboy NFT",
-        demo:'https://chillsburydogeboy.herokuapp.com/',
+        demo:'http://www.chillsburydogeboy.com',
         about:"NFT Collection and and information regarding minting date",
         tags:["React","Node",],
         github:'https://github.com/PeterdQuinn/ChillsburryMainSite-main.git',
