@@ -9,7 +9,7 @@ export const ProjectData = [
         image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRquEy29kay87rhmCpNtzto2qYUnGnh_tLpdQ&usqp=CAU'
     },
     {
-        id:"2",
+        id:"1",
         title:"OG Dodeboy NFT",
         demo:'http://www.chillsburydogeboy.com',
         about:"NFT Collection and and information regarding minting date",
