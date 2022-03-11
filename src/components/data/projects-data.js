@@ -26,7 +26,7 @@ export const ProjectData = [
         demo:'https://your-defi.herokuapp.com/',
         about:"Start up page made for Defi clients",
         tags:["React","Node","axios","React-icons","Coingeko API" ],
-        image:'https://imgs.search.brave.com/OvlhY9n5GPqQbXy9-zh7usSePTuDSWr9tcV-c3MrGD0/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5O/dTV6RFFlNFI2cFhE/RVlLSEpPYk1BSGFF/SyZwaWQ9QXBp'
+        image:'https://imgs.search.brave.com/dDxyLkA1jSQYNhJ6uNi0Ir_g2n3aIaWwpdP8XfYDV_s/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/NGtfaktpakNyRjB0/UTZjcHI5YzJ3SGFI/YSZwaWQ9QXBp'
     },
    
 
