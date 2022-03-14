@@ -7,13 +7,13 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hi, My name is 
+                    Hello I am ,
                     <br /><span className="info-name">Peter Quinn</span>
-                    <br />  I am a Full Stack Web Developer of the (MERN) stack. I love Blockchains,NFTs, and crypto currencies.
-                    But I love creating NFTs on Solana!
+                    <br /> I am a mern Stack web developer who loves to develop applications and websites. I love creating
+                    Dapps, currencies, and working on Blockchains.  
                 </div>
                 <div className="about-photo">
-                    <img src={require('../../../assets/pngegg.png'  )}  width="500" height="333"       className="picture"></img>
+                    <img src={require('../../../assets/Bitcoin.png'  )}  width="400" height="333"       className="picture"></img>
                 </div>
             </div>
             
