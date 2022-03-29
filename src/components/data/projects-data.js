@@ -34,7 +34,7 @@ export const ProjectData = [
         demo:'https://chompies.herokuapp.com/',
         about:"Static website made for resturants",
         tags:["React","CSS","HTML","Node"],
-        image:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicurious.com%2Frecipes%2Ffood%2Fviews%2Fclassic-smashed-cheeseburger-51261810&psig=AOvVaw3PxggaI-c71CriJbct1Bjz&ust=1648618309328000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDu9PjL6vYCFQAAAAAdAAAAABAD'
+        image:'https://imgs.search.brave.com/_kIYvR_2mD8KPIoKM1aUdXPXJoPxUykIpAPYBMY6tcE/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly90aGVk/ZWxpZ2h0ZnVsbGF1/Z2guY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA5L3Nt/YXNoZWQtZG91Ymxl/LWNoZWVzZWJ1cmdl/ci5qcGc'
     },
     {
         id:"5",
@@ -42,7 +42,7 @@ export const ProjectData = [
         demo:'http://future-travel.vercel.app/',
         about:"Get ready for the future of space travel",
         tags:["React","Node","React-Router-Dom","React-icons",],
-        image:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F02%2F18%2Fopinion%2Fspace-china-billionaires.html&psig=AOvVaw1X-ufXnzGN7vVZY7U0repZ&ust=1648617978293000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLis2-vL6vYCFQAAAAAdAAAAABAD'
+        image:'https://imgs.search.brave.com/z3qgaz1VP-HunIVh0R6u0yw77O9x69X_MAlXVUEQ8d4/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/WVhNMFljcTVwenRZ/XzloVmNGMHZRSGFF/SyZwaWQ9QXBp'
     },
    
 
