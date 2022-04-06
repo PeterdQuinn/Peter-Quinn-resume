@@ -6,7 +6,7 @@ export const ProjectData = [
         demo:'http://www.chillsburydogeboy.com',
         about:"NFT Collection and and information regarding minting date",
         tags:["React","Node","Swiper JS",],
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9w6rYjeT8FJFtQSXPWY8cYqYc6vG0zNP5w&usqp=CAU'
+        image:'https://scalablesolutions.io/wp-content/uploads/2021/03/NFTs.png'
     },
    
    
@@ -30,19 +30,11 @@ export const ProjectData = [
    
     {
         id:"4",
-        title:"My food",
-        demo:'https://chompies.herokuapp.com/',
-        about:"Static website made for resturants",
-        tags:["React","CSS","HTML","Node"],
-        image:'https://imgs.search.brave.com/_kIYvR_2mD8KPIoKM1aUdXPXJoPxUykIpAPYBMY6tcE/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly90aGVk/ZWxpZ2h0ZnVsbGF1/Z2guY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA5L3Nt/YXNoZWQtZG91Ymxl/LWNoZWVzZWJ1cmdl/ci5qcGc'
-    },
-    {
-        id:"5",
-        title:"Future-Travel",
-        demo:'http://future-travel.vercel.app/',
-        about:"Get ready for the future of space travel",
-        tags:["React","Node","React-Router-Dom","React-icons",],
-        image:'https://imgs.search.brave.com/z3qgaz1VP-HunIVh0R6u0yw77O9x69X_MAlXVUEQ8d4/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/WVhNMFljcTVwenRZ/XzloVmNGMHZRSGFF/SyZwaWQ9QXBp'
+        title:"Dapps",
+        demo:'https://dapps-rouge.vercel.app/',
+        about:"A DAPP thats shows transactions with memes and adress information",
+        tags:["React","Tailwinds Css","Eth Smart contracts","Node","Eth Web 3"  ],
+        image:'https://kintu.co/wp-content/uploads/2018/06/ethereum_projects.jpg'
     },
    
 
