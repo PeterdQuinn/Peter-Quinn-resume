@@ -4,7 +4,7 @@ export const ProjectData = [
         id:"1",
         title:"OG Dodeboy NFT",
         demo:'http://www.chillsburydogeboy.com',
-        about:"NFT Collection and and information regarding minting date",
+        about:"NFT Collection and  information regarding minting date",
         tags:["React","Node","Swiper JS",],
         image:'https://scalablesolutions.io/wp-content/uploads/2021/03/NFTs.png'
     },
