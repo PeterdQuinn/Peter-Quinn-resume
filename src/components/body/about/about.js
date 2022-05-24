@@ -13,7 +13,7 @@ function About() {
                     websites and applications. I am in love with web3 technology. 
                 </div>
                 <div className="about-photo">
-                    <img src={require('../../../assets/Bitcoin.png'  )}  width="400" height="333"       className="picture"></img>
+                    <img src={require('../../../assets/icons/codeback.jpg'  )}  width="300" height="300"       className="picture"></img>
                 </div>
             </div>
             

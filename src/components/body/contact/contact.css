@@ -37,7 +37,7 @@
 }
 .download2 {
     background: rgb(237,241,247);
-    background: radial-gradient(circle, rgba(21, 22, 22, 0.888) 0%, rgba(151,154,158,1) 42%, rgba(85,87,89,1) 64%, rgba(0,0,0,0.6250875350140056) 77%, rgba(125,128,131,1) 80%);
+    background: radial-gradient(circle, rgba(15, 15, 15, 0.888) 0%, rgba(151,154,158,1) 42%, rgba(85,87,89,1) 64%, rgba(0,0,0,0.6250875350140056) 77%, rgba(125,128,131,1) 80%);
     padding: 8px 16px;
     font-size: 24px;
     display: flex;
