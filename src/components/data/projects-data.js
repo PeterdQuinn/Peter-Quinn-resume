@@ -21,11 +21,11 @@ export const ProjectData = [
    
     {
         id:"3",
-        title:"My-coins",
-        demo:'https://my-gold.herokuapp.com/',
-        about:"Keep up on your current crypto investments real time",
-        tags:["Reactjs","Node","axios","React-icons","Coingeko API","dompurify"],
-        image:'https://imgs.search.brave.com/BdUvzVJbO3YgShpblryZPASbv4GWA-0UECdgobmJkCQ/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/aXhORzRoYWlETEVQ/dTVabDc5V3hRSGFF/NyZwaWQ9QXBp'
+        title:"Get lost with me",
+        demo:'http://come-get-lost.vercel.app/',
+        about:"Travel website for the island lover",
+        tags:["Reactjs","Node","React-icons",],
+        image:'https://www.tripsavvy.com/thmb/FwmQ-JvBEBDDlVb-j_zdEo0iVsA=/2048x1152/smart/filters:no_upscale()/beach-5b59c9b7c9e77c004b3e0ff0.jpg'
     },
    
     {

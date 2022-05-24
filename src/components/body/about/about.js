@@ -7,10 +7,10 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hello I am ,
-                    <br /><span className="info-name">Peter Quinn</span>
-                    <br /> I am a mern Stack web developer who loves to develop applications and websites. I love creating
-                    Dapps, currencies, and working on Blockchains.  
+                    Welcome to my page, 
+                   I am <br /><span className="info-name">Peter Quinn</span>
+                    <br /> I am a freelance web Developer of the mern stack. I love creating clean working 
+                    websites and applications. I am in love with web3 technology. 
                 </div>
                 <div className="about-photo">
                     <img src={require('../../../assets/Bitcoin.png'  )}  width="400" height="333"       className="picture"></img>

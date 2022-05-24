@@ -56,10 +56,7 @@ export const SkillsData = [
                 name:"GraphQL",
                 icon: <i class="devicon-graphql-plain colored"></i>,
             },
-            {
-                name:"SQL Server",
-                icon: <i class="devicon-microsoftsqlserver-plain colored"></i>,
-            },
+          
             
             
             
@@ -74,8 +71,8 @@ export const SkillsData = [
                 icon:<i class="devicon-git-plain colored"></i>,
             },
             {
-                name:"Heroku",
-                icon: <i class="devicon-heroku-original colored"></i>,
+                name:"VS CODE",
+                icon: <i class="devicon-vscode-plain colored"></i>,
             },
            
             {
@@ -83,7 +80,10 @@ export const SkillsData = [
                 icon: <i class="devicon-github-original colored"></i>,
             },
             
-            
+            {
+                name:"NPM",
+                icon:<i class="devicon-npm-original-wordmark colored"></i>,
+            },
         ]
 
     },
