@@ -11,17 +11,6 @@ export const SocialData = [
         link:"https://www.linkedin.com/in/peter-quinn-73ab78200/",
         
     },
-    {
-        platform:"Codepen",
-        icon: require('../../assets/icons/codepen.svg').default,
-        link:"https://codepen.io/pen/",
-        
-    },
-    {
-        platform:"Gmail",
-        icon: require('../../assets/icons/gmail.svg').default,
-        link:"Peterdquinnsr@gmail.com",
-        
-    },
-
+    
+    
 ];

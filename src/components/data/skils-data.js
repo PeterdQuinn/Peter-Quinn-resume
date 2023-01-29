@@ -27,7 +27,7 @@ export const SkillsData = [
                 icon: <i class="devicon-sass-original colored"></i>,
             },
             {
-                name:"Sass",
+                name:"Typescript",
                 icon: <i class="devicon-tailwindcss-plain colored"></i>,
             },
         ]

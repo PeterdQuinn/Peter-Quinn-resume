@@ -12,11 +12,11 @@ export const ProjectData = [
    
     {
         id:"2",
-        title:"Your Defi",
-        demo:'https://your-defi.herokuapp.com/',
-        about:"Start up page made for Defi clients",
-        tags:["Reactjs","Node","axios","React-icons","Coingeko API" ],
-        image:'https://imgs.search.brave.com/OvlhY9n5GPqQbXy9-zh7usSePTuDSWr9tcV-c3MrGD0/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5O/dTV6RFFlNFI2cFhE/RVlLSEpPYk1BSGFF/SyZwaWQ9QXBp'
+        title:"One stop crypto shop",
+        demo:'https://one-stop-crypto.vercel.app/',
+        about:"A multiple page crypto application",
+        tags:["React","Api","React-router-dom","axios","ethers","dompurify", "react-alice-carousel"],
+        image:'https://www.exodus.com/img/hp-mobile-crypto-wallet1/hp-mobile-crypto-wallet1-lsize.png'
     },
    
     {
@@ -32,11 +32,22 @@ export const ProjectData = [
         id:"4",
         title:"Dapps",
         demo:'https://dapps-rouge.vercel.app/',
-        about:"A DAPP thats shows transactions with memes and adress information",
+        about:"A DAPP thats shows transactions with memes and address information",
         tags:["React","Tailwinds Css","Eth Smart contracts","Node","Eth Web 3"  ],
         image:'https://kintu.co/wp-content/uploads/2018/06/ethereum_projects.jpg'
     },
    
+    {
+        id:"5",
+        title:"Pokedex",
+        demo:'https://react-pokedex-main.vercel.app/',
+        about:"A Pokedex of the origianl pokemon",
+        tags:["React","CSS","Poke Api","Node","axios","react-router-bootstrap"  ],
+        image:'https://cdn.dribbble.com/users/1171520/screenshots/6540871/pokedex2.png?compress=1&resize=800x600&vertical=top'
+    },        
+    
+
+
 
 
    

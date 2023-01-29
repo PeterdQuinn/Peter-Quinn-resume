@@ -2,7 +2,7 @@ import React from 'react';
 import './contact.css';
 import Separator from '../../common/separator/separator';
 import SocialContact from './../../common/social-contact/social';
-import resume from '../../../assets/Peter Quinn Resume New.pdf';
+import resume from '../../../assets/Peter Quinn Resume.pdf';
 import Cert from '../../../assets/Cert.pdf';
 
 
