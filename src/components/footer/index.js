@@ -4,7 +4,7 @@ import './footer.css';
 function Footer() {
     return (
         <div className="footer">
-            Created By Peter Quinn
+            Copy right of Peter Quinn
         </div>
     )
 }

@@ -7,7 +7,7 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hello, My name is  
+                    Hello  
                     <br /><span className="info-name">Peter Quinn</span>
                     <br /> I am a certified mern stack web developer
                     who loves to create websites, build in web3 space and has a love for

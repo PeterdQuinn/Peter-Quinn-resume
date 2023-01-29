@@ -13,15 +13,15 @@ function Contact() {
             <label className="section-title">Contact</label>
             <div className="contact-container">
                 <div className="contact-left">
-                    <p>Connect</p>
+                    <p>Social Media</p>
                     <SocialContact />
                 </div>
                 <div className="download">
-                    <a href={resume} download="Peter Quinn Resume New.pdf"> Download Resume </a>
+                    <a href={resume} download="Peter Quinn Resume New.pdf"> Resume </a>
                     <i class='fi-rr-cloud-download download-icon' />
                 </div>
                 <div className="download2">
-                    <a href={Cert} download="Cert.pdf"> Download Certification </a>
+                    <a href={Cert} download="Cert.pdf"> Certification </a>
                     <i class='fi-rr-cloud-download download-icon' />
                 </div>
             </div>

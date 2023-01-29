@@ -1,12 +1,12 @@
 .separator {
     background-image: linear-gradient(
         to right top,
-        #64af26,
-        hsl(133, 54%, 43%), 
-        hsl(115, 42%, 44%), 
-        hsl(108, 40%, 51%), 
-        hsl(120, 47%, 57%), 
-        #0f0f0f, 
+        #f5efef,
+        hsl(0, 20%, 95%), 
+        hsl(0, 21%, 95%), 
+        hsl(120, 22%, 96%), 
+        hsl(120, 100%, 99%), 
+        #faf4f4, 
         #141414, 
         #0e0f0f, 
         #070707, 

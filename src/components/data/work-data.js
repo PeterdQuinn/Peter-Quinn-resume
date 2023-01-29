@@ -16,7 +16,7 @@ export const WorkData = [
         dateJoining:"2021",
         dateEnd: "2022",
         companyLogo:"",
-        jobdesc:"Worked websites for clients"
+        jobdesc:"Helped clients build websites."
     },
     {
         company:"Persevere",
@@ -40,6 +40,6 @@ export const WorkData = [
         dateJoining:"2019",
         dateEnd: "Present",
         companyLogo:"",
-        jobdesc:"Working on clients websites"
+        jobdesc:"Worked with healthcare data"
     },    
 ]
