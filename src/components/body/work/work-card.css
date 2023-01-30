@@ -6,7 +6,11 @@
     justify-content: space-between;
     align-items: center;
     flex-direction: row-reverse;
+    
 }
+
+
+
 
 .work-logo {
     height: 80px;
@@ -16,10 +20,11 @@
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    text-decoration-style: none;
 }
 
 .work-dates {
-    color: gray;
+    color: hwb(22 19% 7%);
 }
 
 .work-desc {
