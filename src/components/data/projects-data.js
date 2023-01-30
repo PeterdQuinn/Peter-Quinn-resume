@@ -30,7 +30,7 @@ export const ProjectData = [
    
     {
         id:"4",
-        title:"Dapps",
+        title:"DAPP",
         demo:'https://dapps-rouge.vercel.app/',
         about:"A DAPP thats shows transactions with memes and address information",
         tags:["React","Tailwinds Css","Eth Smart contracts","Node","Eth Web 3"  ],
