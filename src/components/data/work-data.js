@@ -7,7 +7,7 @@ export const WorkData = [
         dateJoining:"2022",
         dateEnd: "Present",
         companyLogo:"",
-        jobdesc:" Front end developer"
+        jobdesc:"Small group working in start up company. Languages: Typescript, Nextjs, Reactjs."
     },
 
     {
@@ -16,7 +16,7 @@ export const WorkData = [
         dateJoining:"2021",
         dateEnd: "2022",
         companyLogo:"",
-        jobdesc:"Helped clients build websites."
+        jobdesc:"Helped clients with websites or web application needs."
     },
     {
         company:"Persevere",
@@ -24,7 +24,7 @@ export const WorkData = [
         dateJoining:"2021",
         dateEnd: "2022",
         companyLogo:"",
-        jobdesc:"Mern Stack instructor"
+        jobdesc:"Mern (Mango,Express,React,Node) stack instructor."
     },
     {
         company:"Freelance",
@@ -32,7 +32,7 @@ export const WorkData = [
         dateJoining:"2021",
         dateEnd: "2022",
         companyLogo:"",
-        jobdesc:"Working on clients websites"
+        jobdesc:"Building websites or applications to clients needs."
     },    
     {
         company:"Syllogistic Healthcare consulting LLC  ",
@@ -40,6 +40,6 @@ export const WorkData = [
         dateJoining:"2019",
         dateEnd: "Present",
         companyLogo:"",
-        jobdesc:"Worked with healthcare data"
+        jobdesc:"Working in the healthcare data field with mysql server T-SQL."
     },    
 ]
