@@ -21,10 +21,11 @@
     align-items: flex-start;
     flex-direction: column;
     text-decoration-style: none;
+    color: rgb(134, 9, 153);
 }
 
 .work-dates {
-    color: hwb(22 19% 7%);
+    color: hwb(0 5% 18%);
 }
 
 .work-desc {
@@ -35,6 +36,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 80%;
+    background-color: hsl(300, 31%, 94%);
 }
 
 @media only screen and (max-width: 720px) {

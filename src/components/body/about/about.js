@@ -9,8 +9,8 @@ function About() {
                 <div className="about-info">
                     Welcome, My name is  
                     <br /><span className="info-name">Peter Quinn</span>
-                    <br /> I am a certified full stack web developer through the University of Arizona.
-                     I Love creating web applications and working with blockchain technology.
+                    <br /> I am a certified full stack web developer.
+                     I enjoy creating web applications and working with blockchain technology.
                     
                 </div>
                 <div className="about-photo">
