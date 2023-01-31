@@ -13,11 +13,11 @@
 }
 
 .about-info {
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .info-name {
-    color: rgb(21, 9, 152);
+    color: hsl(296, 92%, 35%);
 
     font-size: 32px;
 }
