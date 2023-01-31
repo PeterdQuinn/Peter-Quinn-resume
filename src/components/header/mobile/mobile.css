@@ -1,5 +1,5 @@
 .mobile {
-    background-color: #2bbe3e;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
     height: 100vh;
     width: 60vw;
     position: absolute;
@@ -14,6 +14,7 @@
     display: flex;
     justify-content: flex-end;
     font-size: 24px;
+    color: black;
 
 }
 
@@ -28,13 +29,13 @@
 }
 
 .mobile-option {
-    font-size: 24px;
+    font-size: 50px;
     margin: 12px 0px;
     display: flex;
 }
 
 .mobile-option a{
     text-decoration: none;
-    color: #070606;
+    color: hsl(0, 0%, 3%);
     display: flex;
 }
