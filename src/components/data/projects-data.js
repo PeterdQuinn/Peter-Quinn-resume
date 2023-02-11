@@ -37,14 +37,6 @@ export const ProjectData = [
         image:'https://kintu.co/wp-content/uploads/2018/06/ethereum_projects.jpg'
     },
    
-    {
-        id:"5",
-        title:"Pokedex",
-        demo:'https://react-pokedex-main.vercel.app/',
-        about:"A pokedex of the original 151 pokemon",
-        tags:["React","CSS","Poke Api","Node","axios","react-router-bootstrap"  ],
-        image:'https://cdn.dribbble.com/users/1171520/screenshots/6540871/pokedex2.png?compress=1&resize=800x600&vertical=top'
-    },        
     
 
 
