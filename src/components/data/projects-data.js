@@ -12,11 +12,11 @@ export const ProjectData = [
    
     {
         id:"2",
-        title:"One stop crypto shop",
-        demo:'https://one-stop-crypto.vercel.app/',
-        about:"A multiple page crypto application",
-        tags:["React","Api","React-router-dom","axios","ethers","dompurify", "react-alice-carousel"],
-        image:'https://www.exodus.com/img/hp-mobile-crypto-wallet1/hp-mobile-crypto-wallet1-lsize.png'
+        title:"Company Webiste",
+        demo:'https://www.fullstackseo.net/',
+        about:"Company website for a SEO company",
+        tags:["Nextjs","Stripe API", "Tailwinds Css"],
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd2n2LyEHm58LUTBJMpOWaWwdvFVZQ17l5WElkIi8dyP8-zHUxW8LHH8uD4_fjqV6RuZM&usqp=CAU'
     },
    
     {

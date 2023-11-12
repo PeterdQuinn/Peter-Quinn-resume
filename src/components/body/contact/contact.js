@@ -17,7 +17,7 @@ function Contact() {
                     <SocialContact />
                 </div>
                 <div className="download">
-                    <a href={resume} download="Peter Quinn Resume New.pdf"> Resume </a>
+                    <a href={resume} download="Peter Quinn Resume.pdf"> Resume </a>
                     <i class='fi-rr-cloud-download download-icon' />
                 </div>
                 <div className="download2">
