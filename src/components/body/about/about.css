@@ -8,33 +8,36 @@
     align-items: center;
 }
 
+.about-info, .about-photo {
+    flex: 1; /* This ensures both the text and photo take up equal space */
+    padding: 10px; /* Adds some padding around the content */
+}
+
 .picture {
-    height: 420px;
+    width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains the aspect ratio */
 }
 
 .about-info {
-    font-size: 30px;
+    font-size: calc(16px + 1vw);
 }
 
 .info-name {
     color: hsl(296, 92%, 35%);
-
-    font-size: 32px;
+    font-size: calc(18px + 1vw);
 }
 
 @media only screen and (max-width: 720px) {
-    .about-top{
+    .about-top {
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
     }
-    .picture{
-        height: 280px;
+    .about-info, .about-photo {
+        flex: none; /* Resets the flex property for mobile */
     }
-    .about-info{
-        font-size: 20px;
+    .about-info {
+        font-size: calc(14px + 2vw);
     }
-    .info-name{
-        font-size: 26px;
+    .info-name {
+        font-size: calc(16px + 2vw);
     }
 }

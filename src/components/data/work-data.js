@@ -3,11 +3,11 @@
 export const WorkData = [
     {
         company:"Nomadic Cooling",
-        designation:"Web Developer",
+        designation:"Lead Web Developer & SEO Specialist,",
         dateJoining:"2023",
         dateEnd: "Present",
         companyLogo:"",
-        jobdesc:"Working with team to help company grow"
+        jobdesc:"Integral collaboration with the CEO, offering strategic insights to uplift business performance."
     }, 
     {
         company:"Quick Organics",

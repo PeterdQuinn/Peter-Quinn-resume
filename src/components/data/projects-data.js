@@ -39,9 +39,4 @@ export const ProjectData = [
    
     
 
-
-
-
-   
-
 ];
